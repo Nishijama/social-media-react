@@ -21,7 +21,7 @@ function Footer() {
         <a href="/" className="text-muted">
           ComplexApp
         </a>
-        . All rights reserved.
+        @All rights reserved.
       </p>
     </footer>
   );
